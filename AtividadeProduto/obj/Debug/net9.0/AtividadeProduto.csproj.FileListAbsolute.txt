@@ -1,0 +1,14 @@
+C:\Estudos - cSharp\AtividadeProduto\obj\Debug\net9.0\AtividadeProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos - cSharp\AtividadeProduto\obj\Debug\net9.0\AtividadeProduto.AssemblyInfoInputs.cache
+C:\Estudos - cSharp\AtividadeProduto\obj\Debug\net9.0\AtividadeProduto.AssemblyInfo.cs
+C:\Estudos - cSharp\AtividadeProduto\obj\Debug\net9.0\AtividadeProduto.csproj.CoreCompileInputs.cache
+C:\Estudos - cSharp\AtividadeProduto\bin\Debug\net9.0\AtividadeProduto.exe
+C:\Estudos - cSharp\AtividadeProduto\bin\Debug\net9.0\AtividadeProduto.deps.json
+C:\Estudos - cSharp\AtividadeProduto\bin\Debug\net9.0\AtividadeProduto.runtimeconfig.json
+C:\Estudos - cSharp\AtividadeProduto\bin\Debug\net9.0\AtividadeProduto.dll
+C:\Estudos - cSharp\AtividadeProduto\bin\Debug\net9.0\AtividadeProduto.pdb
+C:\Estudos - cSharp\AtividadeProduto\obj\Debug\net9.0\AtividadeProduto.dll
+C:\Estudos - cSharp\AtividadeProduto\obj\Debug\net9.0\refint\AtividadeProduto.dll
+C:\Estudos - cSharp\AtividadeProduto\obj\Debug\net9.0\AtividadeProduto.pdb
+C:\Estudos - cSharp\AtividadeProduto\obj\Debug\net9.0\AtividadeProduto.genruntimeconfig.cache
+C:\Estudos - cSharp\AtividadeProduto\obj\Debug\net9.0\ref\AtividadeProduto.dll
