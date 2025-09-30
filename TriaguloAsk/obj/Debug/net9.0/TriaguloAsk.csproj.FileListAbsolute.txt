@@ -1,0 +1,14 @@
+C:\Estudos - cSharp\TriaguloAsk\bin\Debug\net9.0\TriaguloAsk.exe
+C:\Estudos - cSharp\TriaguloAsk\bin\Debug\net9.0\TriaguloAsk.deps.json
+C:\Estudos - cSharp\TriaguloAsk\bin\Debug\net9.0\TriaguloAsk.runtimeconfig.json
+C:\Estudos - cSharp\TriaguloAsk\bin\Debug\net9.0\TriaguloAsk.dll
+C:\Estudos - cSharp\TriaguloAsk\bin\Debug\net9.0\TriaguloAsk.pdb
+C:\Estudos - cSharp\TriaguloAsk\obj\Debug\net9.0\TriaguloAsk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos - cSharp\TriaguloAsk\obj\Debug\net9.0\TriaguloAsk.AssemblyInfoInputs.cache
+C:\Estudos - cSharp\TriaguloAsk\obj\Debug\net9.0\TriaguloAsk.AssemblyInfo.cs
+C:\Estudos - cSharp\TriaguloAsk\obj\Debug\net9.0\TriaguloAsk.csproj.CoreCompileInputs.cache
+C:\Estudos - cSharp\TriaguloAsk\obj\Debug\net9.0\TriaguloAsk.dll
+C:\Estudos - cSharp\TriaguloAsk\obj\Debug\net9.0\refint\TriaguloAsk.dll
+C:\Estudos - cSharp\TriaguloAsk\obj\Debug\net9.0\TriaguloAsk.pdb
+C:\Estudos - cSharp\TriaguloAsk\obj\Debug\net9.0\TriaguloAsk.genruntimeconfig.cache
+C:\Estudos - cSharp\TriaguloAsk\obj\Debug\net9.0\ref\TriaguloAsk.dll
