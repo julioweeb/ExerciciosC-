@@ -1,0 +1,14 @@
+C:\Estudos - cSharp\ImparOrPar\bin\Debug\net9.0\ImparOrPar.exe
+C:\Estudos - cSharp\ImparOrPar\bin\Debug\net9.0\ImparOrPar.deps.json
+C:\Estudos - cSharp\ImparOrPar\bin\Debug\net9.0\ImparOrPar.runtimeconfig.json
+C:\Estudos - cSharp\ImparOrPar\bin\Debug\net9.0\ImparOrPar.dll
+C:\Estudos - cSharp\ImparOrPar\bin\Debug\net9.0\ImparOrPar.pdb
+C:\Estudos - cSharp\ImparOrPar\obj\Debug\net9.0\ImparOrPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos - cSharp\ImparOrPar\obj\Debug\net9.0\ImparOrPar.AssemblyInfoInputs.cache
+C:\Estudos - cSharp\ImparOrPar\obj\Debug\net9.0\ImparOrPar.AssemblyInfo.cs
+C:\Estudos - cSharp\ImparOrPar\obj\Debug\net9.0\ImparOrPar.csproj.CoreCompileInputs.cache
+C:\Estudos - cSharp\ImparOrPar\obj\Debug\net9.0\ImparOrPar.dll
+C:\Estudos - cSharp\ImparOrPar\obj\Debug\net9.0\refint\ImparOrPar.dll
+C:\Estudos - cSharp\ImparOrPar\obj\Debug\net9.0\ImparOrPar.pdb
+C:\Estudos - cSharp\ImparOrPar\obj\Debug\net9.0\ImparOrPar.genruntimeconfig.cache
+C:\Estudos - cSharp\ImparOrPar\obj\Debug\net9.0\ref\ImparOrPar.dll
