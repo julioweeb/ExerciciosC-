@@ -1,0 +1,14 @@
+C:\Estudos - cSharp\CotaçãoDolar\CotaçãoDolar\bin\Debug\net9.0\CotaçãoDolar.exe
+C:\Estudos - cSharp\CotaçãoDolar\CotaçãoDolar\bin\Debug\net9.0\CotaçãoDolar.deps.json
+C:\Estudos - cSharp\CotaçãoDolar\CotaçãoDolar\bin\Debug\net9.0\CotaçãoDolar.runtimeconfig.json
+C:\Estudos - cSharp\CotaçãoDolar\CotaçãoDolar\bin\Debug\net9.0\CotaçãoDolar.dll
+C:\Estudos - cSharp\CotaçãoDolar\CotaçãoDolar\bin\Debug\net9.0\CotaçãoDolar.pdb
+C:\Estudos - cSharp\CotaçãoDolar\CotaçãoDolar\obj\Debug\net9.0\CotaçãoDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos - cSharp\CotaçãoDolar\CotaçãoDolar\obj\Debug\net9.0\CotaçãoDolar.AssemblyInfoInputs.cache
+C:\Estudos - cSharp\CotaçãoDolar\CotaçãoDolar\obj\Debug\net9.0\CotaçãoDolar.AssemblyInfo.cs
+C:\Estudos - cSharp\CotaçãoDolar\CotaçãoDolar\obj\Debug\net9.0\CotaçãoDolar.csproj.CoreCompileInputs.cache
+C:\Estudos - cSharp\CotaçãoDolar\CotaçãoDolar\obj\Debug\net9.0\CotaçãoDolar.dll
+C:\Estudos - cSharp\CotaçãoDolar\CotaçãoDolar\obj\Debug\net9.0\refint\CotaçãoDolar.dll
+C:\Estudos - cSharp\CotaçãoDolar\CotaçãoDolar\obj\Debug\net9.0\CotaçãoDolar.pdb
+C:\Estudos - cSharp\CotaçãoDolar\CotaçãoDolar\obj\Debug\net9.0\CotaçãoDolar.genruntimeconfig.cache
+C:\Estudos - cSharp\CotaçãoDolar\CotaçãoDolar\obj\Debug\net9.0\ref\CotaçãoDolar.dll
